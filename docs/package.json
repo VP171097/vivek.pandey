@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "framer-motion": "^12.6.2",
+    "lucide-react": "^0.485.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
